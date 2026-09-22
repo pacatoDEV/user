@@ -30,4 +30,4 @@ Sou um profissional com mais de 15 anos de experiência autodidata em tecnologia
 
 *Outros conhecimentos:* Automações com Windows Batch (.bat), N8N e Google AI Studio.
 
-<img src="https://i.pinimg.com/originals/c7/df/bd/c7dfbd671d2b8214f7b60761e8095b28.gif" width="250" align="right" alt="Gameboy Pokemon">
+
