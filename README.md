@@ -25,9 +25,5 @@ Sou um profissional com mais de 15 anos de experiência autodidata em tecnologia
 *Outros conhecimentos:* Automações com Windows Batch (.bat), N8N e Google AI Studio.
 
 ### 📊 Estatísticas do GitHub
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pacatoDEV&show_icons=true&theme=radical" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacatoDEV&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
-</div>
+Em construção...
 
-### 📫 Como me encontrar
