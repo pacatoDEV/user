@@ -1,4 +1,10 @@
-# Olá, eu sou o João Paulo Marques 👋
+<!-- Banner animado no topo -->
+<img src="https://i.pinimg.com/originals/33/ba/00/33ba001007aeb29437b6cc9ccdb32cb2.gif" width="100%" height="200" style="object-fit: cover;">
+
+# Olá, eu sou o João Paulo Marques <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<!-- Efeito de digitação animado -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3670A0&center=false&vCenter=false&width=600&lines=Estudante+de+Ci%C3%AAncia+de+Dados;Analista+de+Service+Desk;Criador+de+Automa%C3%A7%C3%B5es+em+Python" alt="Typing SVG" /></a>
 
 Sou um profissional com mais de 15 anos de experiência autodidata em tecnologia e suporte de TI, atualmente cursando **Ciência de Dados** na Faculdade Anhanguera. Tenho grande paixão por criar automações, estruturar bancos de dados e resolver problemas complexos através de código.
 
@@ -6,7 +12,7 @@ Sou um profissional com mais de 15 anos de experiência autodidata em tecnologia
 - 🔭 Atualmente atuo como Analista de Service Desk, enquanto desenvolvo projetos paralelos de automação (como scripts em Python) e aplicações web.
 - 🌱 Aprofundando meus estudos e práticas em **Data Science**, **Python** e **SQL**.
 - 💼 Possuo certificações em **Power BI**, **Scrum (Agile Master)** e **OPSWAT**.
-- ⚡ Curiosidade: Além de dados e automação (usando ferramentas como N8N e IA), também gosto de explorar conceitos de desenvolvimento de jogos com Lua e Pygame.
+- ⚡ Curiosidade: Além de dados e automação, também gosto de explorar conceitos de desenvolvimento de jogos com Lua e Pygame.
 
 ### 💻 Tecnologias e Ferramentas
 
@@ -23,7 +29,3 @@ Sou um profissional com mais de 15 anos de experiência autodidata em tecnologia
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 *Outros conhecimentos:* Automações com Windows Batch (.bat), N8N e Google AI Studio.
-
-### 📊 Estatísticas do GitHub
-Em construção...
-
