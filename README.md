@@ -23,6 +23,7 @@ Sou um profissional com mais de 15 anos de experiência autodidata em tecnologia
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+<img src="https://i.pinimg.com/originals/c7/df/bd/c7dfbd671d2b8214f7b60761e8095b28.gif" width="250" align="right" alt="Gameboy Pokemon">
 **Ferramentas e Automação:**  
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
