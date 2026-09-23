@@ -25,7 +25,7 @@
 
 <br>
 
-Sou um profissional com mais de 15 anos de experiência autodidata em tecnologia e suporte de TI, atualmente cursando **Ciência de Dados** na Faculdade Anhanguera. Tenho grande paixão por criar automações, estruturar bancos de dados e resolver problemas complexos através de código.
+Sou um profissional com mais de 15 anos de experiência autodidata em tecnologia e suporte de TI, atualmente cursando **Ciência de Dados** na Faculdade Cruzeiro do Sul. Tenho grande paixão por criar automações, estruturar bancos de dados e resolver problemas complexos através de código.
 
 ---
 
